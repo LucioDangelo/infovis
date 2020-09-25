@@ -30,7 +30,9 @@ Contraception and Maternal and Newborn Health, 2017](https://www.guttmacher.org/
 <br />
 [W35 Indian batsmen v left-arm pace](https://luciodangelo.github.io/infovis/makeovermondayw35.html)
 <br />
--RAWGraphs & JSBin
+[W35 B Indian batsmen v left-arm pace](https://luciodangelo.github.io/infovis/makeovermondayw35b.svg)
+<br />
+-RAWGraphs & JSBin & Charticulator
 <br />
 -SOURCE ARTICLE: [Tactics Board: How India can beat Australia](https://www.espncricinfo.com/story/_/id/26927142/how-india-beat-australia)
 <br />
