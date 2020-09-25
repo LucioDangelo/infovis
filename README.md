@@ -20,11 +20,11 @@
 <br />
 [W34 Sexual and Reproductive Health and Rights](https://luciodangelo.github.io/infovis/makeovermondayw34.html)
 <br />
--Flourish SVG & JSBin
+-Flourish & JSBin
 <br />
 -SOURCE ARTICLE: [Dashboard and documentation provided by OpFistula ](https://opfistula.org/)
 <br />
--DATA SOURCE: [Guttmacher Institute’s report: Adding It Up: Investing in
+-DATA SOURCE: [Guttmacher Institute’s report:Investing in
 Contraception and Maternal and Newborn Health, 2017](https://www.guttmacher.org/sites/default/files/report_pdf/adding-it-up-2017-estimation-methodology.pdf)
 <br />
 <br />
