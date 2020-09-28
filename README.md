@@ -1,4 +1,11 @@
 # infovis
+## TP Datos Personales
+[Mis 100 películas favoritas](https://luciodangelo.github.io/infovis/datospersonales.html) 
+<br />
+[Ver Preview](https://luciodangelo.github.io/infovis/TPDatosPersonalesPreviewLucioDangelo.png)
+<br />
+-Infogram & Flourish & Google Sheets & JSBin
+<br />
 ## MakeOver Monday
 [W31 UK Visits](https://luciodangelo.github.io/infovis/makeovermondayw31.html) 
 <br />
